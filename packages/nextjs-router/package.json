@@ -93,12 +93,12 @@
     "@esbuild-plugins/node-resolve": "^0.1.4",
     "@refinedev/core": "^4.52.0",
     "@types/qs": "^6.9.7",
-    "jest": "^29.3.1",
+    "jest": "^30.0.0",
     "jest-environment-jsdom": "^29.3.1",
     "next": "^14.1.0",
     "ts-jest": "^29.1.2",
     "tslib": "^2.6.2",
-    "tsup": "^6.7.0",
+    "tsup": "^8.5.1",
     "typescript": "^5.4.2"
   },
   "peerDependencies": {
