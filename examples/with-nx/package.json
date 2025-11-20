@@ -37,11 +37,11 @@
     "react-scripts": "^5.0.0"
   },
   "devDependencies": {
-    "@nrwl/workspace": "15.9.2",
+    "@nrwl/workspace": "16.0.0",
     "@types/node": "^18.16.2",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
-    "nx": "15.9.2",
+    "nx": "19.0.8",
     "typescript": "^5.4.2"
   }
 }
