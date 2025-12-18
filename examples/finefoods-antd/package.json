@@ -17,7 +17,7 @@
   "dependencies": {
     "@ant-design/graphs": "^1.2.7",
     "@ant-design/icons": "5.0.1",
-    "@ant-design/plots": "^1.2.5",
+    "@ant-design/plots": "^2.0.0",
     "@ant-design/use-emotion-css": "^1.0.4",
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
