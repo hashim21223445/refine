@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.0.18",
-    "@nextui-org/react": "^2.1.5",
+    "@nextui-org/react": "^2.6.11",
     "@refinedev/cli": "^2.16.36",
     "@refinedev/core": "^4.53.0",
     "@refinedev/inferencer": "^4.6.6",
