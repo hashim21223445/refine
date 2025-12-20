@@ -47,17 +47,17 @@
   },
   "dependencies": {
     "@refinedev/devtools-shared": "1.1.11",
-    "body-parser": "^1.20.2",
+    "body-parser": "^1.20.3",
     "boxen": "^5.1.2",
     "chalk": "^4.1.2",
     "dedent": "^0.7.0",
     "error-stack-parser": "^2.1.4",
     "execa": "^5.1.1",
-    "express": "^4.18.2",
+    "express": "^4.21.2",
     "fs-extra": "^10.1.0",
     "globby": "^11.1.0",
     "gray-matter": "^4.0.3",
-    "http-proxy-middleware": "^3.0.0",
+    "http-proxy-middleware": "^3.0.5",
     "jscodeshift": "0.15.2",
     "lodash": "^4.17.21",
     "lodash-es": "^4.17.21",
@@ -67,7 +67,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "sanitize-html": "^2.11.0",
-    "ws": "^8.13.0"
+    "ws": "^8.17.1"
   },
   "devDependencies": {
     "@esbuild-plugins/node-resolve": "^0.1.4",
