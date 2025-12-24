@@ -40,7 +40,7 @@
     "types": "node ../shared/generate-declarations.js"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.7.0"
+    "@supabase/supabase-js": "^2.50.0"
   },
   "devDependencies": {
     "@esbuild-plugins/node-resolve": "^0.1.4",
