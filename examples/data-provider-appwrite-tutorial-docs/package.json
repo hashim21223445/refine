@@ -31,7 +31,7 @@
     "antd": "^5.17.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-router-dom": "^6.8.1",
+    "react-router-dom": "^7.0.0",
     "uuid": "^9.0.1"
   },
   "devDependencies": {
