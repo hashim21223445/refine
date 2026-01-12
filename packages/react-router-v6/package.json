@@ -61,7 +61,7 @@
   },
   "dependencies": {
     "qs": "^6.10.1",
-    "react-router-dom": "^6.8.1"
+    "react-router-dom": "^7.0.0"
   },
   "devDependencies": {
     "@esbuild-plugins/node-resolve": "^0.1.4",
