@@ -42,7 +42,7 @@
     "react-dom": "^18.0.0",
     "react-hook-form": "^7.30.0",
     "react-i18next": "^11.8.11",
-    "react-router-dom": "^6.8.1"
+    "react-router-dom": "^6.30.3"
   },
   "devDependencies": {
     "@types/node": "^18.16.2",
