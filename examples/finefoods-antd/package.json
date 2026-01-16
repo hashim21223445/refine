@@ -42,7 +42,7 @@
     "react-i18next": "^11.8.11",
     "react-infinite-scroll-component": "^6.1.0",
     "react-input-mask": "^2.0.4",
-    "react-router-dom": "^6.8.1",
+    "react-router-dom": "^6.30.3",
     "tslib": "^2.6.2",
     "usehooks-ts": "^2.14.0"
   },
