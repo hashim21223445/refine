@@ -43,8 +43,8 @@
     "@aliemir/dom-to-fiber-utils": "^0.4.0",
     "@refinedev/devtools-shared": "1.1.11",
     "error-stack-parser": "^2.1.4",
-    "lodash": "^4.17.21",
-    "lodash-es": "^4.17.21"
+    "lodash": "^4.17.23",
+    "lodash-es": "^4.17.23"
   },
   "devDependencies": {
     "@esbuild-plugins/node-resolve": "^0.1.4",
