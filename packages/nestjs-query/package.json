@@ -45,8 +45,8 @@
     "graphql-request": "^5.2.0",
     "graphql-tag": "^2.12.6",
     "graphql-ws": "^5.9.1",
-    "lodash": "^4.17.21",
-    "lodash-es": "^4.17.21",
+    "lodash": "^4.17.23",
+    "lodash-es": "^4.17.23",
     "pluralize": "^8.0.0"
   },
   "devDependencies": {
