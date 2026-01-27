@@ -45,8 +45,8 @@
     "@tabler/icons-react": "^3.1.0",
     "@tanstack/react-query": "^4.10.1",
     "dayjs": "^1.10.7",
-    "lodash": "^4.17.21",
-    "lodash-es": "^4.17.21",
+    "lodash": "^4.17.23",
+    "lodash-es": "^4.17.23",
     "react-markdown": "^6.0.1",
     "remark-gfm": "^1.0.0",
     "tslib": "^2.6.2"
